@@ -1,0 +1,6 @@
+Hello, this is file handling assignment.
+The answer is plp.
+plp Python learning is awesome!
+This line was appended later.
+The current year is 2024.
+File handling in Python is fun!
